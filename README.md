@@ -7,13 +7,10 @@
 
 **Inspired By: Omegle.**
 
-1. [**General Description.**](#general_description)
-1. [**How To Use It.**](#how_to_use_it)
-1. [**General Documentation.**](#general_documentation)
+1. [**General Description.**](#general-description)
+1. [**How To Use It.**](#how-to-use-it)
+1. [**General Documentation.**](#general-documentation)
 
-<br>
-<br>
-<br>
 
 ## 1.  **General Description:**
 
