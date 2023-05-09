@@ -7,9 +7,10 @@
 
 **Inspired By: Omegle.**
 
-1. [**General Description.**](#general-description)
-1. [**How To Use It.**](#how-to-use-it)
-1. [**General Documentation.**](#general-documentation)
+1. [**General Description.**](#1--general-description)
+1. [**How To Use It.**](#2-how-to-use-it)
+1. [**General Documentation.**](#3-general-documentation)
+1. [**Contributing And Feedback.**](#contributing-and-feedback)
 
 
 ## 1.  **General Description:**
@@ -145,10 +146,10 @@ I am a Student and I am still in the process of learning. So, I appreciate your 
 
 Here are some ways you can contribute and provide feedback:
 
-- **Report issues**: If you come across any issues or bugs, please [submit an issue](link-to-issue-tracker) with a detailed description. Include steps to reproduce the problem, expected behavior, and any relevant screenshots.
+- **Report issues**: If you come across any issues or bugs, please submit an issue with a detailed description. Include steps to reproduce the problem, expected behavior, and any relevant screenshots.
 
-- **Feature requests**: If you have any ideas for new features or improvements, [open an issue](link-to-issue-tracker) and describe your suggestion. Provide as much detail as possible, including use cases and potential implementation strategies.
+- **Feature requests**: If you have any ideas for new features or improvements, open an issue and describe your suggestion. Provide as much detail as possible, including use cases and potential implementation strategies.
 
-- **General feedback**: If you have any other feedback, questions, or comments, please [reach out](contact-information) to me. I am open to discussions and happy to address any concerns.
+- **General feedback**: If you have any other feedback, questions, or comments, please reach out to me. I am open to discussions and happy to address any concerns.
 
 ### Thank you for taking the time to contribute and provide feedback
